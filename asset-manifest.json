@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kkb5763/clonetwitt/static/css/main.90846b9b.chunk.css",
-    "main.js": "/kkb5763/clonetwitt/static/js/main.c23e6585.chunk.js",
-    "main.js.map": "/kkb5763/clonetwitt/static/js/main.c23e6585.chunk.js.map",
-    "runtime-main.js": "/kkb5763/clonetwitt/static/js/runtime-main.e31fced3.js",
-    "runtime-main.js.map": "/kkb5763/clonetwitt/static/js/runtime-main.e31fced3.js.map",
-    "static/js/2.b0da980c.chunk.js": "/kkb5763/clonetwitt/static/js/2.b0da980c.chunk.js",
-    "static/js/2.b0da980c.chunk.js.map": "/kkb5763/clonetwitt/static/js/2.b0da980c.chunk.js.map",
-    "index.html": "/kkb5763/clonetwitt/index.html",
-    "static/css/main.90846b9b.chunk.css.map": "/kkb5763/clonetwitt/static/css/main.90846b9b.chunk.css.map",
-    "static/js/2.b0da980c.chunk.js.LICENSE.txt": "/kkb5763/clonetwitt/static/js/2.b0da980c.chunk.js.LICENSE.txt"
+    "main.css": "/clonetwitt/static/css/main.90846b9b.chunk.css",
+    "main.js": "/clonetwitt/static/js/main.61a7ee7d.chunk.js",
+    "main.js.map": "/clonetwitt/static/js/main.61a7ee7d.chunk.js.map",
+    "runtime-main.js": "/clonetwitt/static/js/runtime-main.5bef5585.js",
+    "runtime-main.js.map": "/clonetwitt/static/js/runtime-main.5bef5585.js.map",
+    "static/js/2.e52e2341.chunk.js": "/clonetwitt/static/js/2.e52e2341.chunk.js",
+    "static/js/2.e52e2341.chunk.js.map": "/clonetwitt/static/js/2.e52e2341.chunk.js.map",
+    "index.html": "/clonetwitt/index.html",
+    "static/css/main.90846b9b.chunk.css.map": "/clonetwitt/static/css/main.90846b9b.chunk.css.map",
+    "static/js/2.e52e2341.chunk.js.LICENSE.txt": "/clonetwitt/static/js/2.e52e2341.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e31fced3.js",
-    "static/js/2.b0da980c.chunk.js",
+    "static/js/runtime-main.5bef5585.js",
+    "static/js/2.e52e2341.chunk.js",
     "static/css/main.90846b9b.chunk.css",
-    "static/js/main.c23e6585.chunk.js"
+    "static/js/main.61a7ee7d.chunk.js"
   ]
 }
